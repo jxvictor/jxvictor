@@ -2,7 +2,6 @@
 
 <!--
 **jxvictor/jxvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,10 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Linguagens e Ferramentas
+### Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
 
 <div>
