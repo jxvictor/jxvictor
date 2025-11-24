@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxvictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake animation](https://github.com/jxvictor/jxvictor/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/jxvictor/jxvictor/blob/output/github-contribution-grid-snake.svg)
